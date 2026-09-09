@@ -1,9 +1,6 @@
 # Shoulder Surfing Protection (PS01)
 
-An Android app (Kotlin + Jetpack Compose) that uses the front-facing camera to detect when an
-additional person is looking at the screen, and automatically hides sensitive on-screen content.
 
-## How it maps to the problem statement
 
 | Requirement | Implementation |
 |---|---|
