@@ -18,7 +18,7 @@ The app utilizes real-time computer vision to detect when an additional person i
 - **AI/ML Engine:** [Google ML Kit Face Detection](https://developers.google.com/ml-kit/vision/face-detection) (On-device inference)
 - **UI:** Material Design with a high-priority Overlay View
 
-## ⚙️ How It Works
+## ⚙️ How It Works it should
 
 ### 1. Face Detection Pipeline
 The app initializes a `CameraX` analysis stream. Every frame is passed to the **ML Kit Face Detector**, which returns a list of detected faces and their bounding boxes.
