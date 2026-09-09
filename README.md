@@ -13,7 +13,7 @@ additional person is looking at the screen, and automatically hides sensitive on
 | React quickly | Analyzer runs on every 5th frame (~5-6 checks/sec) using `STRATEGY_KEEP_ONLY_LATEST`; UI reacts via `StateFlow` the instant a threat is reported |
 | No external hardware | 100% on-device: CameraX + ML Kit, no cloud calls |
 | Minimize battery/CPU | Frame throttling (`FRAME_SKIP = 5`), `PERFORMANCE_MODE_FAST`, no landmark/classification modes, camera only bound while protection is enabled |
-| No stored images | `imageProxy.close()` is called immediately after each frame is analyzed; no bitmap, file, or buffer is ever persisted or copied out of the analyzer |
+| No stored images | `imageProxy.close()` is called immediately after each frame is analyzed; no bitmap, file, or buffer is ever persisted or copied out of the analyzer 
 
 ## Project structure
 
