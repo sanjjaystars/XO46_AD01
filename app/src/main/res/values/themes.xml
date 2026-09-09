@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.ShoulderSurfingProtection" parent="Theme.MaterialComponents.Light" />
+</resources>
