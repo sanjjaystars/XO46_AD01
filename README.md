@@ -60,7 +60,7 @@ To meet the strict requirements of the problem statement, the following optimiza
    - Allow Gradle to download the CameraX and ML Kit dependencies.
 4. **Run the App:**
    - Connect your device via USB and click `Run`.
-   - **Grant Camera Permissions** when prompted.
+   - **Grant Camera Permissions** when prompted. sanjay anna payalugada
 
 ## 📸 Usage
 1. Open the app to see the "Sensitive Dashboard."
